@@ -3,7 +3,8 @@
   "version": "2.0.0",
   "description": "Ecommerce shop for plants!",
   "engines": {
-    "node": "~12.11.1"
+    "node": "~12.11.1",
+    "npm": "~6.11.3"
   },
   "main": "index.js",
   "scripts": {
