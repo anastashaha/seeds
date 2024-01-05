@@ -30,7 +30,7 @@ async function seed() {
     'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_the-vertical-space-bundle_variant_growpot_none_360x.jpg?v=1613177115',
     'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_Faux_Money_Tree_Pallas_Grey_Varian.jpg?v=1684506379&width=400',
     'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_kokedama-plant_variant_all_01_360x.jpg?v=1571677621',
-    'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_LargeMajestyPalm_Large_Mexiaplanter-CementGrey_variant.jpg?v=1698271068&width=400',
+    'https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_easy-care_subscription_marianne_white_variant_9cccea4f-9a4f-4064-8364-02e0e6df0f1d.jpg?v=1692625398',
     'https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Large-Cat-Palm_Large_Pallas_Cream_Variant_1.jpg?v=1692822986&width=400',
     'https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Faux_Variegated_Monstera_Large_Helena_Cream_Variant.jpg?v=1685669305&width=400',
     'https://cdn.shopify.com/s/files/1/0150/6262/products/the-sill_airplants-assorted_6_360x.jpg?v=1585928827',
